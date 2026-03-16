@@ -1,0 +1,6 @@
+{
+    "port": "",
+    "baudrate": 115200,
+    "timeout": 1,
+    "auto_connect": false
+}
